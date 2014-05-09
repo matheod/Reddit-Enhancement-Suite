@@ -535,11 +535,17 @@ p.moduleListing {
 	float: left;
 	width: 140px;
 }
-.optionContainer input[type=color] {
+.optionContainer .colorOption input[type=color] {
 	margin-left: 10px;
 	float: left;
 	width: 44px;
 	height: 16px;
+}
+.optionContainer .colorOption input[type=range] {
+	margin-left: 6px;
+	margin-right: 10px;
+	float: left;
+	width: 90px;
 }
 .optionContainer input[type=checkbox] {
 	margin-left: 10px;

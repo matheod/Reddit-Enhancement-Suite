@@ -91,7 +91,8 @@
 	],
 	"web_accessible_resources": [
 		"jquery-1.10.2.min.map",
-		"templates.html"
+		"templates.html",
+		"tinycolor.js"
 	],
 	"icons": {
 		"48": "icon48.png",
